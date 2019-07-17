@@ -1,1 +1,3 @@
-基于pandecheng36的快搜的fork版
+基于pandecheng36的快搜的fork超精简版，只保留快搜功能
+
+适合手机端使用
